@@ -1,5 +1,5 @@
 
-# Exercício M18 - Seaborn e Git
-
-## Gráfico de vendas de gasolina por dia
-![Venda x Dia](img/gasolina.png "Venda x Dia")
+# Exercício M19 - Seaborn e Git (novo branch e pull request)
+  
+## Gráfico de receita de gasolina vendida por dia  
+![Receita x Dia](img/gasolina.png "Venda x Dia")  
